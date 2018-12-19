@@ -1,1 +1,1 @@
-# projet-6-todolist
+Exercice AJAX : To-do list 
